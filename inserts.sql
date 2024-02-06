@@ -72,7 +72,7 @@ INSERT INTO aeropuerto (id, nombre, ciudad_id) VALUES
 
 INSERT INTO vuelo (id, fecha, hora, avion_id, compania_id, origen_id, destino_id) VALUES
 ('FR1104', '2024-01-26', '22:00:00', 1, 1, 'PMI', 'MAN'),
-('BA8484', '2024-01-26', '10:50:00', 2, 2, 'PMI', 'MAN'),
+('BA8484', '2024-01-26', '10:50:00', 2, 4, 'PMI', 'MAN'),
 ('U21004', '2024-02-05', '16:20:00', 3, 2, 'BSL', 'PMI'),
 ('IB8486', '2024-02-05', '15:40:00', 5, 3, 'PMI', 'MAH'),
 ('U22322', '2024-02-05', '11:55:00', 3, 2, 'PMI', 'LTN'),
